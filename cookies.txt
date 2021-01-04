@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.firmy.net	TRUE	/	FALSE	1999999999	PHPSESSID	e6509b708ca3093233aa8d8f6735ece5
+.firmy.net	TRUE	/	FALSE	1999999999	_cTrack	STZ1C
+.firmy.net	TRUE	/	FALSE	1999999999	cookieInfo	1
+

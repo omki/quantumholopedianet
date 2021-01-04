@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 04 Jan 2021 10:56:01 at http://quantum-holopedia.firmy.net/produkty-i-uslugi.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://quantum-holopedia.firmy.net/produkty-i-uslugi.html -O1 "C:\Users\TimeWaver User\Videos\HolonIQ\firmz QH PiU" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:56:01	Warning: 	Note: due to quantum-holopedia.firmy.net remote robots.txt rules, links beginning with these path will be forbidden: /szukaj.html?, /blog/wp-content/, /blog/wp-includes/, /blog/wp-admin/, /*.swf, /*.js (see in the options to disable this)
+10:57:06	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from quantum-holopedia.firmy.net/produkty-i-uslugi.html)
+11:00:27	Error: 	"Not Found" (404) at link s.st-firmy.net/gfx/schemesNew/sprite-icons_06.png (from s.st-firmy.net/firmy/css/desktop,2b35494fec6.css)
+11:00:27	Error: 	"Not Found" (404) at link s.st-firmy.net/gfx/schemesNew/sprite-icons_06@2x.png (from s.st-firmy.net/firmy/css/desktop,2b35494fec6.css)
+11:00:27	Error: 	"Not Found" (404) at link s.st-firmy.net/firmy/gfx/knowledgeBase/read-more.png (from s.st-firmy.net/firmy/css/desktop,2b35494fec6.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 29 seconds : 259 links scanned, 254 files written (6967860 bytes overall) [7041708 bytes received at 26177 bytes/sec]
+(4 errors, 1 warnings, 0 messages)
